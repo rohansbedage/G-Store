@@ -118,7 +118,7 @@ Deploying G-Store on your server is straightforward, following these steps:
 
 ## License
 
-G-Store operates under the [MIT] License. Please review the [LICENSE.md](LICENSE.md) file for comprehensive details.
+G-Store operates under the [MIT] License. Please review the [LICENSE.md](LICENSE) file for comprehensive details.
 
 
 ---
