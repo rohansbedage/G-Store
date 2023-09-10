@@ -81,7 +81,6 @@ while($row=mysqli_fetch_array($ret))
     <div class="card mb-3 my-3 p-3 mb-4">
   <div class="row g-0 ">
     <div class="col-md-4">
-		<br><br><br>
     <img class="img-responsive" alt="" src="assets/images/blank.gif" data-echo="admin/productimages/<?php echo htmlentities($row['id']);?>/<?php echo htmlentities($row['productImage1']);?>" width="300"  />
 
     </div>
