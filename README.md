@@ -171,4 +171,3 @@ G-Store underwent extensive testing, including:
 
 - Unit testing for individual components.
 - Integration testing for system
-----
